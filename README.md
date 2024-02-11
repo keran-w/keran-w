@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @keran-w
+- 👋 Hi, I’m Keran
 - 👀 I’m interested in Software Engineering and machine learning
 - 🌱 I’m currently learning cloud computing technologies and database implementation
 - 📫 Reach me via wangk16@outlook.com
 
 
-- 📊 Weekly development breakdown
+###  📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 
 ```txt
