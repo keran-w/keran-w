@@ -4,7 +4,7 @@
 - 📫 Reach me via wangk16@outlook.com
 
 
-###  📊 Weekly development breakdown
+###  📊 Development breakdown
 <!--START_SECTION:waka-->
 
 ```rust
