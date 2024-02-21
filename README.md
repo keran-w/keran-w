@@ -8,20 +8,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 September 2023 - To: 19 February 2024
+From: 21 September 2023 - To: 20 February 2024
 
-Total Time: 243 hrs 25 mins
+Total Time: 252 hrs 12 mins
 
-Python                  116 hrs 8 mins  >>>>>>>>>>>>-------------   47.53 %
-Java                    39 hrs 25 mins  >>>>---------------------   16.13 %
-JavaScript              38 hrs 2 mins   >>>>---------------------   15.56 %
-Text                    11 hrs 46 mins  >------------------------   04.82 %
-Go                      9 hrs 21 mins   >------------------------   03.83 %
-ANTLR v4 grammar file   5 hrs 37 mins   >------------------------   02.30 %
-XML                     4 hrs 49 mins   -------------------------   01.97 %
-C++                     3 hrs 52 mins   -------------------------   01.59 %
-HTML                    2 hrs 31 mins   -------------------------   01.03 %
-Markdown                1 hr 49 mins    -------------------------   00.75 %
+Python                  116 hrs 8 mins  >>>>>>>>>>>--------------   45.88 %
+Java                    40 hrs 10 mins  >>>>---------------------   15.87 %
+JavaScript              38 hrs 2 mins   >>>>---------------------   15.03 %
+Text                    11 hrs 48 mins  >------------------------   04.67 %
+Go                      9 hrs 21 mins   >------------------------   03.69 %
+Markdown                6 hrs 7 mins    >------------------------   02.42 %
+ANTLR v4 grammar file   6 hrs 3 mins    >------------------------   02.40 %
+XML                     5 hrs 15 mins   >------------------------   02.08 %
+TeX                     3 hrs 57 mins   -------------------------   01.57 %
+C++                     3 hrs 52 mins   -------------------------   01.53 %
 ```
 
 <!--END_SECTION:waka-->
