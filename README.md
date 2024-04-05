@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Keran
 - 👀 I’m interested in Software Engineering and machine learning
-- 🌱 I’m currently learning cloud computing technologies and database implementation
+- 🌱 I’m currently learning networked systems and software design
 - 📫 Reach me via wangk16@outlook.com
 
 
